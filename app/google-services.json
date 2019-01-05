@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "48247580430",
+    "firebase_url": "https://fir-cm-bac44.firebaseio.com",
+    "project_id": "fir-cm-bac44",
+    "storage_bucket": "fir-cm-bac44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48247580430:android:2cbc8f701a773115",
+        "android_client_info": {
+          "package_name": "io.destreza.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48247580430-bgasuc92v07a5c1oimac1ve3e1eu4gkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBygWFPs5Cp7QLDUfbtFpknO1NjvNaq0ww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
