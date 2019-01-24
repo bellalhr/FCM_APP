@@ -1,1 +1,1 @@
-![image](https://{auto.ndtvimg.com/bike-images/big/hero/xtreme-sports/hero-xtreme-sports.webp?v=4})
+![image](https://{https://auto.ndtvimg.com/bike-images/colors/hero/xtreme-sports/hero-xtreme-sports-black-red.webp?v=4})
