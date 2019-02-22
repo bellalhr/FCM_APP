@@ -1,6 +1,15 @@
 
-![alt text](https://github.com/bellalhrbubt/FCM_APP/blob/master/Image/44-android-categories-gallery-ui.jpg?raw=true)
-
-<div align="center">
-    <img src="https://auto.ndtvimg.com/bike-images/colors/hero/xtreme-sports/hero-xtreme-sports-black-red.webp?v=4" width="100px"</img> 
-</div>
+<html>
+	<div>
+		<table width="200px">
+			<tr>
+				<td>
+					<img src="https://raw.githubusercontent.com/bellalhrbubt/ERP_Dashboard/master/img/Screenshot_2019-02-22-14-51-38.png" height="300px" width="200px"/>
+				</td>
+				<td>
+					<img src="https://raw.githubusercontent.com/bellalhrbubt/ERP_Dashboard/master/img/Screenshot_2019-02-22-14-51-38.png" height="300px" width="200px"/>
+				</td>
+			</tr>
+		</table>
+	</div>
+</html>
